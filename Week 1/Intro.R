@@ -17,7 +17,7 @@
 ##Likelihood ratio
 ##P(D|+)/P(Dc|+) => P(+|D)/P(+|Dc) * P(D)/P(Dc)
 ##Post-test odds=> DLR+ * Pre-test odds
-##DLR (Diagnostic Likelihood ratio)
+##DLR (Diagnostic Likelihood ratio)-determines whether a test successfully changes the probability that the condition exists
 
 ##Independence
 ##P(A^B)=P(A)P(B) only when AB are independent
